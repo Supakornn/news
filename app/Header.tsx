@@ -19,9 +19,12 @@ function Header() {
           </button>
         </div>
       </div>
+
+      {/* NavLink*/}
+
+      {/* SearchBox */}
     </header>
   );
 }
 
 export default Header;
-ต;
