@@ -26,7 +26,7 @@ function Header() {
 
             {/* NavLink*/}
 
-
+            {/* SearchBox */}
         </header>
     );
 }
