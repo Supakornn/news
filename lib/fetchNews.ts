@@ -6,4 +6,4 @@ const fetchNews = async () => (
 
 }
 
-export default fetchNews
+export default fetchNews;
