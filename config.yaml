@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: curl_import_config
+      authentication_4741643436: bhola::stepzen.io+1000::3a19beb83e47aa924c7b66cfa2d25826bccd76ae6a9c971d652ec88f0a1f3289
